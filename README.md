@@ -11,3 +11,8 @@
 ```
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fe2fyi%2Fnpm-modules-proxy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fe2fyi%2Fnpm-modules-proxy?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fe2fyi%2Fnpm-modules-proxy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fe2fyi%2Fnpm-modules-proxy?ref=badge_large)
